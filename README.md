@@ -1,6 +1,6 @@
 # Devcamp Portfolio Application
 
-Some content
+Some content for you
 
 Things you may want to cover:
 
