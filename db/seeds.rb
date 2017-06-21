@@ -25,7 +25,7 @@ puts "5 skills created"
         Shuba dooba dooba dooby Shuba dooba dooba dooby
         Shuba dooba dooba dooby Shuba dooba dooba dooby",
         main_image: "http://via.placeholder.com/600x400",
-        thumb_image: "http://via.placeholder.com/350x200",
+        thumb_image: "http://via.placeholder.com/350x200"
         )
 end
 puts "9 portfolio items created"
