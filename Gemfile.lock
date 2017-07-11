@@ -1,10 +1,4 @@
 GIT
-  remote: https://github.com/scarymushroom/snider_view_tool
-  revision: deff4af095859771effab7363a0f0fd273ffe232
-  specs:
-    snider_view_tool (0.1.0)
-
-GIT
   remote: https://github.com/twbs/bootstrap-rubygem
   revision: b156edfee2b9629ad4751ee2a118a04f824ef9eb
   specs:
@@ -161,6 +155,7 @@ GEM
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
     slop (3.6.0)
+    snider_view_tool (0.1.0)
     spring (2.0.2)
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
@@ -211,7 +206,7 @@ DEPENDENCIES
   puma (~> 3.7)
   rails (~> 5.1.1)
   sass-rails (~> 5.0)
-  snider_view_tool!
+  snider_view_tool (~> 0.1.0)
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)
