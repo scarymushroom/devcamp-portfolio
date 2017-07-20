@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import "jquery-ui";
 
 body {
   min-height: 75rem; /* Can be removed; just added for demo purposes */
@@ -62,14 +63,6 @@ footer p {
 /*
  * Custom Styles
  */
-
-.bg-inverse {
-  background-color: #292b2c!important;
-}
-
-a.navbar-brand{
-  color: #fff;
-}
 
 .portfolio-form{
   padding: 20px;
