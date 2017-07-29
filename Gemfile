@@ -62,5 +62,6 @@ gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
 gem 'carrierwave', '~> 1.1'
 gem 'mini_magick', '~> 4.8'
+gem 'cocoon', '~> 1.2', '>= 1.2.10'
 # Never used for second to last Deep dive in week 6
 gem 'carrierwave-aws', '~> 1.2'
