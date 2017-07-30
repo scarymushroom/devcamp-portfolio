@@ -1,3 +1,11 @@
+<%= form_for(@portfolio_item) do |f| %>
+  <% if @portfolio_item.errors.any? %>
+    <% @portfolio_item.errors.full_messages.each do |error| %>
+      <%= js add_gritter(error,
+      title: "Justin Snider Portfolio", sticky: false) %>
+    <% end %>
+  <% end %>
+
 <%= form_for(@portfolio_item) do |form| %>
   <div class="row">
     <div class="col-md-6">
