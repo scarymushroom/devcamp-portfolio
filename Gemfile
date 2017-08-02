@@ -65,5 +65,6 @@ gem 'mini_magick', '~> 4.8'
 gem 'cocoon', '~> 1.2', '>= 1.2.10'
 gem 'gritter', '~> 1.2'
 gem 'twitter', '~> 6.1'
+gem 'redis', '~> 3.3', '>= 3.3.3'
 # Never used for second to last Deep dive in week 6
 gem 'carrierwave-aws', '~> 1.2'
